@@ -10,7 +10,7 @@ Modern interface with interactive Edit/Delete buttons and a simple login form.
 ---
 
 ## 🎬 Demo Video
-<video src="demo.mp4" controls width="600" poster="poster.png">
+<video src="VideoImg/2025-11-04 10-18-38.mp4" controls width="600" poster="poster.png">
 Your browser does not support the video tag.
 </video>
 
@@ -19,7 +19,7 @@ Your browser does not support the video tag.
 ---
 
 ## 📸 Screenshot
-![User Table View](screenshot.png)
+![User Table](media/SS.png)
 
 ---
 
