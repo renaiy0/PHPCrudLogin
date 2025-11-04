@@ -10,16 +10,12 @@ Modern interface with interactive Edit/Delete buttons and a simple login form.
 ---
 
 ## 🎬 Demo Video
-<video src="VideoImg/2025-11-04 10-18-38.mp4" controls width="600" poster="poster.png">
-Your browser does not support the video tag.
-</video>
-
-> Place `demo.mp4` in the repo folder and optionally add a `poster.png` thumbnail.
+![Demo GIF](vid/demo.gif)
 
 ---
 
 ## 📸 Screenshot
-![User Table](media/SS.png)
+![User Table](vid/SS.png)
 
 ---
 
