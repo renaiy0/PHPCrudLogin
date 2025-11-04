@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>WOW</title>
+</head>
+<body>
+    <center>
+        <h1>Form LOG Test</h1>
+        <form action="tes.php" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required><br><br>
+
+            <input type="checkbox" id="agree" name="agree" required>
+            <label for="agree">I agree with terms and conditions</label><br><br>
+
+<button class="btn-launch" type="submit">LOGIN</button>
+
+<style>
+.btn-launch {
+    background-color: #389042; 
+    border: none;
+    color: rgb(223, 207, 207);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px; 
+    transition: 0.3s;  
+}
+
+.btn-launch:hover {
+    background-color: #1b3580; 
+    transform: scale(1.05);    
+}
+</style>
+
+
+
+
+        </form>
+
+        <marquee bgcolor="cyan" loop="1000" scrollamount="25" width="100%">
+            Just for test!!
+        </marquee>
+    </center>
+</body>
+</html>
