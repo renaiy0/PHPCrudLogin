@@ -10,7 +10,7 @@ Modern interface with interactive Edit/Delete buttons and a simple login form.
 ---
 
 ## 🎬 Demo Video
-![Demo GIF](vid/demo.gif)
+![Demo GIF](vid/Demo.gif)
 
 ---
 
